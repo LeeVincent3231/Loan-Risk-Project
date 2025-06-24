@@ -36,27 +36,23 @@ This project develops a comprehensive auto loan risk analytics platform to suppo
 
 ### Primary Data
 - **Source**: [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/data-research/consumer-credit-trends/auto-loans/)
-- **Coverage**: January 2013 - October 2024
-- **Update Frequency**: Monthly
 
 ## Dataset Summary
 
-<!-- To be completed after data exploration -->
+- **Primary Period**: January 2006 - November 2024 (18+ years)
+- **Total Datasets**: 5 specialized datasets
+- **Data Granularity**: Monthly frequency across all datasets
+- **Geographic Coverage**: State-level and neighborhood income analysis
 
-**Data Coverage:**
-- **Time Period**: [TO BE FILLED]
-- **Total Records**: [TO BE FILLED]
-- **Geographic Coverage**: [TO BE FILLED]
-- **Credit Score Segments**: [TO BE FILLED]
+### Dataset Architecture
+| Dataset | Records | Date Range | Structure | Business Purpose |
+|---------|---------|------------|-----------|------------------|
+| Monthly Dollar Volume | 227 | 2006-01 to 2024-11 | 1 record/month | Origination dollar trends |
+| Monthly Loan Count | 227 | 2006-01 to 2024-11 | 1 record/month | Origination volume trends |
+| Credit Score Segments | 1,075 | 2007-01 to 2024-11 | 5 segments/month | Risk profiling & performance |
+| Age Demographics | 908 | 2006-01 to 2024-11 | 4 age groups/month | Demographic risk analysis |
+| Neighborhood Income | 704 | 2010-04 to 2024-11 | 4 income levels/month | Geographic risk assessment |
 
-### Key Metrics Tracked
-- Monthly origination volumes (loan count and dollar volume)
-- Credit score distribution and performance
-- Geographic risk concentration
-- Age demographic patterns
-- Neighborhood income level analysis
-
-## Data Architecture
 
 ### BigQuery Schema
 ```
