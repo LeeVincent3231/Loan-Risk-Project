@@ -51,29 +51,18 @@ This project develops a comprehensive auto loan risk analytics platform to suppo
 | Age Demographics | 908 | 2006-01 to 2024-11 | 4 age groups/month | Demographic risk analysis |
 | Neighborhood Income | 704 | 2010-04 to 2024-11 | 4 income levels/month | Geographic risk assessment |
 
-### BigQuery Schema
-```
-loan_portfolio/
-├── origination_loan_count          # Monthly number of loans
-├── origination_dollar_volume       # Monthly dollar amounts  
-├── origination_state_trends        # Geographic analysis
-├── risk_by_credit_score           # FICO score segments
-├── risk_by_age_group              # Age demographic analysis  
-└── risk_by_income_level           # Income neighborhood analysis
-```
-
-### Data Processing Pipeline
-<!-- To be completed during implementation -->
-
 ## Analysis Framework
+In analyzing the landscape of consumer auto loan risk, we need to focus on the top-down questions first before diving into SQL queries or modeling. 
+- **Overall Market Trends:** How has origination volume and dollar amounts changed over the years?
+- **Risk Trends:** How can we assess credit policy and loss forecasting?
+- **Demographic Shifts:** How has consumer behaviours changed (age, credit scores, income, etc)
+- **Geographic Patterns:** Are there areas for market expansion opportunities based on geographic data?
 
 ### Origination Trends Analysis
-<!-- Placeholder for origination analysis -->
 
 **Key Questions:**
 - How have monthly origination volumes changed over time?
 - What is the average loan size trend?
-- How do seasonal patterns affect lending?
 
 ### Risk Segmentation
 <!-- Placeholder for risk analysis -->
