@@ -35,15 +35,9 @@ This project develops a comprehensive auto loan risk analytics platform to suppo
 ## Data Sources
 
 ### Primary Data
-- **Source**: [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/)
+- **Source**: [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/data-research/consumer-credit-trends/auto-loans/)
 - **Coverage**: January 2013 - October 2024
 - **Update Frequency**: Monthly
-
-### Specific Datasets Used
-1. **[Origination Activity](https://www.consumerfinance.gov/data-research/consumer-credit-trends/auto-loans/origination-activity/)** - Monthly loan volumes and dollar amounts
-2. **[Borrower Risk Profiles](https://www.consumerfinance.gov/data-research/consumer-credit-trends/auto-loans/borrower-risk-profiles/)** - Performance by credit score segments  
-3. **[Lending by Income Level](https://www.consumerfinance.gov/data-research/consumer-credit-trends/auto-loans/lending-by-neighborhood-income-level/)** - Geographic and income analysis
-4. **[Lending by Age](https://www.consumerfinance.gov/data-research/consumer-credit-trends/auto-loans/lending-by-borrower-age/)** - Demographic performance analysis
 
 ## Dataset Summary
 
