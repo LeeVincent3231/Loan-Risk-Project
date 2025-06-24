@@ -35,7 +35,7 @@ This project develops a comprehensive auto loan risk analytics platform to suppo
 ### Primary Data
 - **Source**: [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/data-research/consumer-credit-trends/auto-loans/)
 
-## Dataset Summary
+### Dataset Summary
 
 - **Primary Period**: January 2006 - November 2024 (18+ years)
 - **Total Datasets**: 5 specialized datasets
@@ -50,7 +50,6 @@ This project develops a comprehensive auto loan risk analytics platform to suppo
 | Credit Score Segments | 1,075 | 2007-01 to 2024-11 | 5 segments/month | Risk profiling & performance |
 | Age Demographics | 908 | 2006-01 to 2024-11 | 4 age groups/month | Demographic risk analysis |
 | Neighborhood Income | 704 | 2010-04 to 2024-11 | 4 income levels/month | Geographic risk assessment |
-
 
 ### BigQuery Schema
 ```
