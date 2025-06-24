@@ -5,18 +5,16 @@ Consumer risk analysis and portfolio monitoring using comprehensive CFPB auto lo
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Tools and Technologies](#tools-and-technologies)
-3. [Data Sources](#data-sources)
-4. [Dataset Summary](#dataset-summary)
-5. [Data Architecture](#data-architecture)
-6. [Analysis Framework](#analysis-framework)
+3. [Data Overview](#data-overview)
+4. [Analysis Framework](#analysis-framework)
    - [Origination Trends Analysis](#origination-trends-analysis)
    - [Risk Segmentation](#risk-segmentation)
    - [Geographic Risk Assessment](#geographic-risk-assessment)
    - [Demographic Analysis](#demographic-analysis)
-7. [Business Intelligence Dashboards](#business-intelligence-dashboards)
-8. [Key Insights & Findings](#key-insights--findings)
-9. [Risk Recommendations](#risk-recommendations)
-10. [Future Enhancements](#future-enhancements)
+5. [Business Intelligence Dashboards](#business-intelligence-dashboards)
+6. [Key Insights & Findings](#key-insights--findings)
+7. [Risk Recommendations](#risk-recommendations)
+8. [Future Enhancements](#future-enhancements)
 
 ## Project Overview
 
@@ -32,7 +30,7 @@ This project develops a comprehensive auto loan risk analytics platform to suppo
 - **Development**: GitHub (version control and documentation)
 - **Data Sources**: CFPB Consumer Credit Trends API
 
-## Data Sources
+## Data Overview
 
 ### Primary Data
 - **Source**: [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/data-research/consumer-credit-trends/auto-loans/)
