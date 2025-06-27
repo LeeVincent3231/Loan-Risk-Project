@@ -28,7 +28,7 @@ This project develops a comprehensive auto loan risk analytics platform to suppo
 - **Data Analysis**: SQL, Python (pandas, numpy)
 - **Visualization**: Microsoft PowerBI, Excel
 - **Development**: GitHub (version control and documentation)
-- **Data Sources**: CFPB Consumer Credit Trends API
+- **Data Sources**: CFPB Consumer Credit Trends Website
 
 ## Data Overview
 
@@ -37,7 +37,7 @@ This project develops a comprehensive auto loan risk analytics platform to suppo
 
 ### Dataset Summary
 
-- **Primary Period**: January 2006 - November 2024 (18+ years)
+- **Primary Period**: January 2006 - November 2024 
 - **Total Datasets**: 5 specialized datasets
 - **Data Granularity**: Monthly frequency across all datasets
 - **Geographic Coverage**: State-level and neighborhood income analysis
