@@ -74,12 +74,6 @@ This project develops a comprehensive auto loan risk analytics platform to suppo
 - Underserved segment analysis
 - Strategic recommendations framework
 
-## Technical Implementation
-
-**SQL Analytics**: 4 core analytical queries optimized for business insights
-**Data Pipeline**: BigQuery cloud warehouse with automated monthly updates
-**Interactive Dashboards**: Looker Studio with real-time data connections
-**Professional Documentation**: Comprehensive analysis methodology and findings
 
 ## Business Impact
 
