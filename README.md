@@ -60,20 +60,16 @@ This project develops a comprehensive auto loan risk analytics platform to suppo
 ## Business Intelligence Dashboards
 
 ### 1. Market Overview Dashboard
-- Monthly origination trends and growth metrics
-- Average loan amount analysis with YoY comparisons
-- Executive KPI scorecards
+- Monthly origination trends and growth metrics with YoY comparisons
+  <img width="777" alt="image" src="https://github.com/user-attachments/assets/143bf166-2817-403a-a131-93a451c53ded" />
 
 ### 2. Portfolio Risk Assessment
-- Credit risk composition and trend analysis
-- Age demographic distribution
-- Geographic risk concentration monitoring
+- Credit risk composition, age, and income demographics trend analysis
+  <img width="766" alt="image" src="https://github.com/user-attachments/assets/d041ba91-4655-4eb7-9e11-f92fed1235f5" />
 
 ### 3. Strategic Opportunities
-- Market opportunity sizing and prioritization
-- Underserved segment analysis
-- Strategic recommendations framework
-
+- Market opportunity sizing and prioritization in underserved segments
+  <img width="779" alt="image" src="https://github.com/user-attachments/assets/16e8b95f-7100-4948-83f8-0cffd6ef615e" />
 
 ## Business Impact
 
