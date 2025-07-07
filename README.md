@@ -40,7 +40,6 @@ This project develops a comprehensive auto loan risk analytics platform to suppo
 - **Primary Period**: January 2006 - November 2024 
 - **Total Datasets**: 5 specialized datasets
 - **Data Granularity**: Monthly frequency across all datasets
-- **Geographic Coverage**: State-level and neighborhood income analysis
 
 ### Dataset Architecture
 | Dataset | Records | Date Range | Structure | Business Purpose |
@@ -56,7 +55,7 @@ In analyzing the landscape of consumer auto loan risk, we need to focus on the t
 - **Overall Market Trends:** How has origination volume and dollar amounts changed over the years?
 - **Risk Trends:** How can we assess credit policy and loss forecasting?
 - **Demographic Shifts:** How has consumer behaviours changed (age, credit scores, income, etc)
-- **Geographic Patterns:** Are there areas for market expansion opportunities based on geographic data?
+- **Income Patterns:** Are there areas for market expansion opportunities based on Income data?
 
 ### Origination Trends Analysis
 
